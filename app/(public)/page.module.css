@@ -15,6 +15,11 @@
   display: block;
 }
 
+.collapsedMenuLink {
+  text-decoration: none;
+  color: inherit;
+}
+
 .settingsMenu {
   margin-top: 45px;
 }
